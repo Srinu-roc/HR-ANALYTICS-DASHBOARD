@@ -23,9 +23,13 @@ Attrition Status
 
 
 🛠️ Tools & Technologies
+
 SQL – Data cleaning, transformation, and analysis
+
 Tableau / Power BI – Interactive dashboard creation
+
 Excel / CSV – Raw data handling
+
 GitHub – Version control and project documentation
 
 
@@ -40,8 +44,11 @@ Performance Rating Distribution
 
 📊 Dashboard Features
 Interactive filters (Department, Gender, Job Role)
+
 Visuals: Bar charts, Pie charts, KPI cards, Trend analysis
 Clean and user-friendly layout for HR stakeholders
+
+
 🚀 Business Impact
 Helps HR teams identify high-risk attrition areas
 Supports strategic workforce planning
@@ -54,7 +61,9 @@ Display Dashboard
 
 🧠 Key Learnings
 Practical HR analytics using real-world data
+
 Writing optimized SQL queries for business insights
+
 Designing impactful dashboards for non-technical users
 
 
